@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mana/chat_Server/build/Desktop_Qt_6_9_1-Debug/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

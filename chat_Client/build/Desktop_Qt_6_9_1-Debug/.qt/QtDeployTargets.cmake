@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_chat_Client_FILE /home/mana/chat_Client/build/Desktop_Qt_6_9_1-Debug/chat_Client)
+set(__QT_DEPLOY_TARGET_chat_Client_TYPE EXECUTABLE)

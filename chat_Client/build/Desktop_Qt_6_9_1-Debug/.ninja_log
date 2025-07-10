@@ -1,0 +1,10 @@
+# ninja log v6
+563	4356	1752154567194551960	CMakeFiles/chat_Client.dir/main.cpp.o	1b4d4a1f140c0fa9
+563	4426	1752154567194551960	CMakeFiles/chat_Client.dir/chat_Client_autogen/mocs_compilation.cpp.o	2e2d91891c2f8f3e
+564	5335	1752154567198551618	CMakeFiles/chat_Client.dir/mainwindow.cpp.o	f442ca679c2dcfc0
+8	563	1752154567182552988	/home/mana/chat_Client/build/Desktop_Qt_6_9_1-Debug/chat_Client_autogen/mocs_compilation.cpp	8095b289ad50b21f
+564	5087	1752154567198551618	CMakeFiles/chat_Client.dir/tcpclientworker.cpp.o	db85599ef82b4342
+8	563	1752154567182552988	/home/mana/chat_Client/build/Desktop_Qt_6_9_1-Debug/chat_Client_autogen/timestamp	8095b289ad50b21f
+8	563	1752154567182552988	chat_Client_autogen/mocs_compilation.cpp	8095b289ad50b21f
+5335	5915	1752154571966144602	chat_Client	8088d69b94e16a2e
+8	563	1752154567182552988	chat_Client_autogen/timestamp	8095b289ad50b21f

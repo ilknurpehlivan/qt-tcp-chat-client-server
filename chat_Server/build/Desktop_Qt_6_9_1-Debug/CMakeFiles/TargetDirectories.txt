@@ -1,0 +1,9 @@
+/home/mana/chat_Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/chat_Server.dir
+/home/mana/chat_Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/edit_cache.dir
+/home/mana/chat_Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/mana/chat_Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/list_install_components.dir
+/home/mana/chat_Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install.dir
+/home/mana/chat_Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/local.dir
+/home/mana/chat_Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/install/strip.dir
+/home/mana/chat_Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/chat_Server_autogen_timestamp_deps.dir
+/home/mana/chat_Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/chat_Server_autogen.dir
