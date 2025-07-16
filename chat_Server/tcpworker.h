@@ -32,7 +32,11 @@ private:
     QTcpServer *server;
     QMap<qintptr, QTcpSocket*> clients;
 
+    // void broadcastMessage(const QByteArray &data);
+    void broadcastMessage(const QByteArray &data, QTcpSocket* exclude);
     void broadcastMessage(const QByteArray &data);
+
+
     void sendToSocket(QTcpSocket* socket, const QByteArray &data);
 };
 
